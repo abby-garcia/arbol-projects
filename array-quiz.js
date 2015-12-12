@@ -5,6 +5,8 @@
 var questions;
 var answers;
 var response;
+var counter = 0;
+var wrong
 
 
 var questions = [
